@@ -1,0 +1,42 @@
+Data Science Project title
+
+Exercise 3
+Introduction
+Welcome to this notebook. In this notebook, we will explore various data science concepts and examples.
+
+Exercise 4
+Data Science Languages
+Python
+R
+SQL
+Exercise 5
+Data Science Libraries
+Pandas
+NumPy
+Scikit-learn
+Exercise 6
+Data Science Tools Table
+Tool	Description
+Jupyter	Interactive Computing
+TensorFlow	Machine Learning
+Tableau	Data Visualization
+Exercise 7
+Introduction to Arithmetic Expressions
+In this section, we will explore some examples of arithmetic expressions using Python.
+
+Exercise 8
+# Multiply and add numbers
+result = (3 * 5) + 10
+print(result)
+Exercise 9
+
+Convert minutes to hours
+minutes = 120 hours = minutes / 60 print(hours)
+
+Exercise 10 Objectives The objectives of this notebook are: To introduce data science languages and libraries. To demonstrate basic arithmetic operations in Python. To share insights about data science tools.
+
+Exercise 11
+Bharath
+This notebook was authored by Bharath
+
+Click to add a cell.
